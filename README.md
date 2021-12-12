@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started  一个无需额外注解、开箱即用的 SpringBoot 接口文档生成工具。特性：
 
 Supported JDK：1.8+
 
